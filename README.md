@@ -27,4 +27,17 @@ This project showcases an Airbnb listing page for a comfortable apartment in Pue
 - **HTML**: Structure of the web page.
 - **CSS**: Styling to ensure a visually appealing design and responsive.
 
+## Desktop View
 
+![Screenshot from 2024-07-11 16-27-53](https://github.com/Pranto-Sen/W3_Assignment_01/assets/83857088/eb0f3c76-f143-4f86-922a-711e0fb63c7d)
+
+![Screenshot from 2024-07-11 16-28-04](https://github.com/Pranto-Sen/W3_Assignment_01/assets/83857088/0d2d1201-5c00-4eb5-88f8-e133248040bc)
+
+![Screenshot from 2024-07-11 16-36-06](https://github.com/Pranto-Sen/W3_Assignment_01/assets/83857088/fc8e92bf-4d04-4609-b113-26ab361105f8)
+
+## Mobile View
+![Screenshot from 2024-07-11 16-32-26](https://github.com/Pranto-Sen/W3_Assignment_01/assets/83857088/111f1162-09c3-4a68-ba80-4192e4a21c5d)
+
+![Screenshot from 2024-07-11 16-32-36](https://github.com/Pranto-Sen/W3_Assignment_01/assets/83857088/5e80f3e5-3ea2-43c8-ae47-15ccac9687be)
+
+![Screenshot from 2024-07-11 16-32-47](https://github.com/Pranto-Sen/W3_Assignment_01/assets/83857088/f2b97b43-7d28-45ed-a8ac-b490d844edbb)
